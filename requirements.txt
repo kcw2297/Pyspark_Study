@@ -1,0 +1,6 @@
+Package    Version
+---------- --------
+pip        20.2.3
+py4j       0.10.9.7
+pyspark    3.4.1
+setuptools 49.2.1
